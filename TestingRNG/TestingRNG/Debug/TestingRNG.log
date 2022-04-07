@@ -1,0 +1,30 @@
+﻿Сборка начата 24.03.2017 11:09:22.
+     1>Проект "C:\Users\Иван\YandexDisk\Инста\7 семестр\7 семестр. Защита информации\Контрольная\Выполнение\TestingRNG\TestingRNG\TestingRNG.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         E:\Programms for VPI\MVS 13\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\TestingRNG.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt TestingRNG.cpp
+         TestingRNG.cpp
+     1>c:\users\иван\yandexdisk\инста\7 семестр\7 семестр. защита информации\контрольная\выполнение\testingrng\testingrng\testingrng.cpp(121): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\иван\yandexdisk\инста\7 семестр\7 семестр. защита информации\контрольная\выполнение\testingrng\testingrng\testingrng.cpp(297): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\иван\yandexdisk\инста\7 семестр\7 семестр. защита информации\контрольная\выполнение\testingrng\testingrng\testingrng.cpp(350): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\иван\yandexdisk\инста\7 семестр\7 семестр. защита информации\контрольная\выполнение\testingrng\testingrng\testingrng.cpp(351): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\иван\yandexdisk\инста\7 семестр\7 семестр. защита информации\контрольная\выполнение\testingrng\testingrng\testingrng.cpp(352): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\иван\yandexdisk\инста\7 семестр\7 семестр. защита информации\контрольная\выполнение\testingrng\testingrng\testingrng.cpp(353): warning C4305: =: усечение из "double" к "float"
+     1>c:\users\иван\yandexdisk\инста\7 семестр\7 семестр. защита информации\контрольная\выполнение\testingrng\testingrng\testingrng.cpp(357): warning C4244: +=: преобразование "const double" в "float", возможна потеря данных
+     1>c:\users\иван\yandexdisk\инста\7 семестр\7 семестр. защита информации\контрольная\выполнение\testingrng\testingrng\testingrng.cpp(359): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\иван\yandexdisk\инста\7 семестр\7 семестр. защита информации\контрольная\выполнение\testingrng\testingrng\testingrng.cpp(386): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\иван\yandexdisk\инста\7 семестр\7 семестр. защита информации\контрольная\выполнение\testingrng\testingrng\testingrng.cpp(409): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\иван\yandexdisk\инста\7 семестр\7 семестр. защита информации\контрольная\выполнение\testingrng\testingrng\testingrng.cpp(410): warning C4305: =: усечение из "double" к "float"
+     1>c:\users\иван\yandexdisk\инста\7 семестр\7 семестр. защита информации\контрольная\выполнение\testingrng\testingrng\testingrng.cpp(411): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\иван\yandexdisk\инста\7 семестр\7 семестр. защита информации\контрольная\выполнение\testingrng\testingrng\testingrng.cpp(419): warning C4305: =: усечение из "double" к "float"
+     1>c:\users\иван\yandexdisk\инста\7 семестр\7 семестр. защита информации\контрольная\выполнение\testingrng\testingrng\testingrng.cpp(422): warning C4305: =: усечение из "double" к "float"
+     1>c:\users\иван\yandexdisk\инста\7 семестр\7 семестр. защита информации\контрольная\выполнение\testingrng\testingrng\testingrng.cpp(423): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\иван\yandexdisk\инста\7 семестр\7 семестр. защита информации\контрольная\выполнение\testingrng\testingrng\testingrng.cpp(443): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+       Link:
+         E:\Programms for VPI\MVS 13\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Иван\YandexDisk\Инста\7 семестр\7 семестр. Защита информации\Контрольная\Выполнение\TestingRNG\Debug\TestingRNG.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Иван\YandexDisk\Инста\7 семестр\7 семестр. Защита информации\Контрольная\Выполнение\TestingRNG\Debug\TestingRNG.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Иван\YandexDisk\Инста\7 семестр\7 семестр. Защита информации\Контрольная\Выполнение\TestingRNG\Debug\TestingRNG.lib" /MACHINE:X86 Debug\stdafx.obj
+         Debug\TestingRNG.obj
+         TestingRNG.vcxproj -> C:\Users\Иван\YandexDisk\Инста\7 семестр\7 семестр. Защита информации\Контрольная\Выполнение\TestingRNG\Debug\TestingRNG.exe
+     1>Сборка проекта "C:\Users\Иван\YandexDisk\Инста\7 семестр\7 семестр. Защита информации\Контрольная\Выполнение\TestingRNG\TestingRNG\TestingRNG.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.44

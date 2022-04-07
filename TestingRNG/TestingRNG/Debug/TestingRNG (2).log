@@ -1,0 +1,15 @@
+﻿Сборка начата 26.03.2017 22:47:12.
+     1>Проект "C:\Users\ProPoLis\YandexDisk\Инста\7 семестр\7 семестр. Защита информации\Контрольная\Выполнение\TestingRNG\TestingRNG\TestingRNG.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\Программы\Microsoft Visual Studio 2013 Ultimate\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\TestingRNG.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt TestingRNG.cpp
+         Пропуск... (изменения не обнаружены)
+         TestingRNG.cpp
+       Link:
+         D:\Программы\Microsoft Visual Studio 2013 Ultimate\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ProPoLis\YandexDisk\Инста\7 семестр\7 семестр. Защита информации\Контрольная\Выполнение\TestingRNG\Debug\TestingRNG.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\ProPoLis\YandexDisk\Инста\7 семестр\7 семестр. Защита информации\Контрольная\Выполнение\TestingRNG\Debug\TestingRNG.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ProPoLis\YandexDisk\Инста\7 семестр\7 семестр. Защита информации\Контрольная\Выполнение\TestingRNG\Debug\TestingRNG.lib" /MACHINE:X86 Debug\stdafx.obj
+         Debug\TestingRNG.obj
+         TestingRNG.vcxproj -> C:\Users\ProPoLis\YandexDisk\Инста\7 семестр\7 семестр. Защита информации\Контрольная\Выполнение\TestingRNG\Debug\TestingRNG.exe
+     1>Сборка проекта "C:\Users\ProPoLis\YandexDisk\Инста\7 семестр\7 семестр. Защита информации\Контрольная\Выполнение\TestingRNG\TestingRNG\TestingRNG.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.32
